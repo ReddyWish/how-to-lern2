@@ -311,7 +311,7 @@
 
 
 .kaufman__triangle {
-  background-image: url("/images/kaufman-triangle.svg");
+  background-image: url("../images/kaufman-triangle.svg");
   position: absolute;
   object-fit: cover;
   right: -210px;

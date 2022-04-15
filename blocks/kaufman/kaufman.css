@@ -1,0 +1,57 @@
+.kaufman {
+  background: #1f1f1f;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  z-index: 1;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+
+.section-title_theme_dark {
+  color: white;
+}
+
+
+.section-subtitle_theme_dark {
+  color: white;
+}
+
+
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+}
+
+
+.table__heading_theme_dark {
+  color: white;
+  line-height: 1.15em;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+.table__text_theme_dark {
+  color: white;
+  line-height: 1.2em;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+
+.kaufman__triangle {
+  background-image: url("../../images/kaufman-triangle.svg");
+  position: absolute;
+  object-fit: cover;
+  right: -210px;
+  width: 877px;
+  height: 877px;
+  z-index: -1;
+  top: 0;
+  background-size: contain;
+  animation: rotation 20s linear infinite;
+}

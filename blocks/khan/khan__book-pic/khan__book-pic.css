@@ -1,0 +1,8 @@
+.khan__book-pic {
+  object-fit: cover;
+  object-position: left top;
+  width: 620px;
+  height: 608px;
+}
+
+/*Добавил object-position, но при этом оставил object-fit:cover, при contain уже не совпадает с брифом :)*/

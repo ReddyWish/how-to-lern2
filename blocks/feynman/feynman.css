@@ -11,49 +11,12 @@
 }
 
 
-.feynman__title {
-  margin: 0;
-  width: 648px;
-  padding-bottom: 70px;
-  padding-top: 100px;
-  line-height: 1.15em;
-  font-size: 120px;
-  font-weight: bold;
-  text-align: center;
-}
 
 
-.feynman__subtitle {
-  margin: 0;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-}
 
 
-.feynman__link {
-  position: absolute;
-  top: 50%;
-  right: 48px;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  text-decoration: none;
-  color: #2f80ed;
-}
-
-.feynman__link:hover {
-  opacity: 50%;
-  transition: .7s;
-}
 
 
-.feynman__picture {
-  width: 867px;
-  height: 637px;
-  position: absolute;
-  z-index: -1;
-  left: 0;
-  bottom: 0;
-  /*object-fit: cover;*/
-}
+
+
+

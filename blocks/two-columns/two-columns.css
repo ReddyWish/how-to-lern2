@@ -5,10 +5,3 @@
   justify-content: space-between;
 }
 
-.two-columns__span-accent {
-  font-weight: bold;
-}
-
-.two-columns__paragraph:not(:last-child) {
-  margin-bottom: 30px;
-}
